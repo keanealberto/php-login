@@ -12,7 +12,7 @@
     $user = null;
 
     if (count($results) > 0) {
-      // code...
+     
       $user = $results;
     }
   }
